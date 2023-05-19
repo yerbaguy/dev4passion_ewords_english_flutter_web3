@@ -1,0 +1,4 @@
+#Fri May 19 16:22:39 CEST 2023
+base.0=/Users/bartosz/Documents/flutter_web3/dev4passion_ewords_english_flutter_web3/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
