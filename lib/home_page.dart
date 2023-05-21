@@ -1,7 +1,9 @@
+import 'package:dev4passion_ewords_english_flutter_web3/words.dart';
 import 'package:flutter/material.dart';
 import 'package:google_nav_bar/google_nav_bar.dart';
 
 import 'home.dart';
+import 'learn.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({ Key? key }) : super(key: key);
@@ -16,9 +18,11 @@ class _HomePageState extends State<HomePage> {
 
   static const List<Widget> _widgetOptions = <Widget>[
    Home(),
+   Learn(),
+   Words(),
    // Text("Home"),
-    Text("Learn"),
-    Text("Words"),
+   // Text("Learn"),
+   // Text("Words"),
 
   ];
 
